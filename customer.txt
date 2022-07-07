@@ -1,0 +1,6 @@
+c1 	KaseyKwok 	20020111 	kaseykwok 	23456789 	kasey@mail.com 
+c2 	JxxxxxKwok 	19950719 	jxxxxxkwok 	34567890 	jxxxxx@mail.com 
+c3 	Trial 	20111111 	trialerror 	11111111 	error@mail.com 
+c4 	TestSys 	19900101 	newpassword 	67896789 	testing@mail.com 
+c5 	SamChow 	19890727 	password 	98989898 	samchow@mail.com 
+c6 	EmilyLee 	19970309 	password 	23092308 	emily@mail.com 
